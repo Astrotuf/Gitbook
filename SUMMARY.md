@@ -16,8 +16,8 @@
 
 ## RESOURCES
 
-* [🤝 How we work together](resources/how-we-work-together.md)
-* [📅 Meetings](resources/meetings.md)
+* [🤝 How we work together](collaborating/how-we-work-together.md)
+* [📅 Meetings](collaborating/meetings.md)
 
 ***
 
@@ -30,10 +30,11 @@
 * [❓ Privacy Policy](privacy-policy.md)
 * [💼 Terms & Conditions](terms-and-conditions.md)
 
-## SWAP Terms of Use
+## OPEN SOURCE
 
-* [✅ Acknowledge Terms](swap-terms-of-use/acknowledge-terms.md)
+* [✅ Acknowledge Terms](open-source/acknowledge-terms.md)
+* [😻 Github](open-source/github.md)
 
 ***
 
-* [😻 Github ](github.md)
+* [🌴 Linkt.ree](linkt.ree.md)

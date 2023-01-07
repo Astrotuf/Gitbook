@@ -16,8 +16,8 @@ PlanetSWH SWAP should not be used for any illegitimate or criminal activity nor 
 
 * Use of PlanetSWH is at the sole risk of the user.
 * The code repository, decentralized and autonomous protocol and environment, and associated decentralized networks are open-source and not controlled by any team.
-* zkBob contributors are not responsible for any losses or damages associated with inherent risks associated with cryptography, blockchain, or digital wallet usage.
-* The user agrees not to access zkBob using any technology for the purposes of circumventing location-based restrictions.
+* PlanetSWH contributors are not responsible for any losses or damages associated with inherent risks associated with cryptography, blockchain, or digital wallet usage.
+* The user agrees not to access PlanetSWH using any technology for the purposes of circumventing location-based restrictions.
 * Users are responsible for reporting and paying any applicable taxes associated with usage.
 * Users acknowledge that addresses may be blocked from using the protocol if they are sanctioned or added to a block list.
 
@@ -29,7 +29,11 @@ The PlanetSWH application is currently in beta and usage is not programmatically
 
 #### Beta Release <a href="#beta-release" id="beta-release"></a>
 
-PlanetSWH Swap is now released in a beta version. Not all contracts have been audited (Li.finance contracts have been audited) and users should use at their own discretion.&#x20;
+PlanetSWH Swap & Bridge is now released in a beta version. Not all contracts have been audited (Li.finance contracts have been audited) and users should use at their own discretion.&#x20;
+
+#### What is Li.FI?&#x20;
+
+[https://li.fi/knowledge-hub/what-is-lifi/](https://li.fi/knowledge-hub/what-is-lifi/)
 
 #### Bug Bounty <a href="#bug-bounty" id="bug-bounty"></a>
 

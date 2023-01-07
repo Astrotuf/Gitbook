@@ -14,7 +14,7 @@ The proof-of-work approach demands the same amount of electricity as an ordinary
 
 In other words, one NFT transaction on Ethereum consumes the same amount of energy as about 331,056 Visa transactions or 24,895 hours of YouTube viewing.
 
-<figure><img src=".gitbook/assets/8D15C493-88D6-49CD-B23E-A07EA6DA304C (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/8D15C493-88D6-49CD-B23E-A07EA6DA304C (1).png" alt=""><figcaption></figcaption></figure>
 
 #### A smart contract-signed commitment
 
