@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# 👋 Meet the Founders!
+# 👋 Meet the Founder
 
 ## Mr. Dave&#x20;
 
@@ -13,6 +13,6 @@ coverY: 0
 ### Bio
 
 {% hint style="success" %}
-Mr. Dave is a bsc in computer science degree holder with a passion for web3 and the potential of the metaverse. Prior to starting metaverse project, Mr. Dave studied as an PHD student of information technology and gained valuable experience in cryptography. In my free time, I enjoy alpha hunting and I’m always looking for new ways to push the boundaries of what is possible with web3 and the metaverse.
+Mr. Dave is a bsc in computer science degree holder with a passion for web3 and the potential of the metaverse. Prior to starting metaverse project, Mr. Dave studied as a PHD student of information technology and gained valuable experience in cryptography. In my free time, I enjoy alpha hunting and I’m always looking for new ways to push the boundaries of what is possible with web3 and the metaverse.
 {% endhint %}
 
