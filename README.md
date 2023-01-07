@@ -1,8 +1,3 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1501854140801-50d01698950b?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHxOYXR1cmV8ZW58MHx8fHwxNjczMDY4MzE0&ixlib=rb-4.0.3&q=80
-coverY: 0
----
 
 # 👋 Welcome
 
