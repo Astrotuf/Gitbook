@@ -12,7 +12,7 @@
 
 ## Team
 
-* [👋 Meet the Founders!](team/meet-the-founders.md)
+* [👋 Meet the Founder](team/meet-the-founders.md)
 
 ## RESOURCES
 
