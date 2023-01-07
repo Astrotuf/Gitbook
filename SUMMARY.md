@@ -32,9 +32,10 @@
 
 ## OPEN SOURCE
 
+* [Brand Assets](open-source/brand-assets.md)
 * [✅ Acknowledge Terms](open-source/acknowledge-terms.md)
 * [😻 Github](open-source/github.md)
 
 ***
 
-* [🌴 Linktree](linktree.md)
+* [🌴 Linktree](linkt.ree.md)
