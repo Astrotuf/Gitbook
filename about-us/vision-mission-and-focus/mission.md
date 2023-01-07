@@ -1,4 +1,5 @@
 ---
+description: Leave the world better for the next Generation
 cover: >-
   https://images.unsplash.com/photo-1613754627343-622ea791af6e?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw4fHxNaXNzaW9ufGVufDB8fHx8MTY3MzA5NDE5MA&ixlib=rb-4.0.3&q=80
 coverY: 0
@@ -7,8 +8,6 @@ coverY: 0
 # Mission
 
 {% hint style="info" %}
-LEAVE THE WORLD BETTER FOR THE NEXT GENERATION
-
 In times of environmental crisis, coordination failure, and increasing greenhouse gas emissions, our generation can work together to turn the tide of climate change.
 {% endhint %}
 

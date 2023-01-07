@@ -37,4 +37,4 @@
 
 ***
 
-* [🌴 Linkt.ree](linkt.ree.md)
+* [🌴 Linktree](linktree.md)
