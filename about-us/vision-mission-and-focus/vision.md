@@ -45,5 +45,3 @@ Write your love letter in no more than 280 characters. Enter your message and de
 Send a message that will live forever on the blockchain. Retire carbon credits to offset emissions with each message you send.
 
 People and businesses all over the world are sending love letters to one another. Join the fight for our planet's future.
-
-#### Click "APPROVE," then "RETIRE" after following the instructions in your wallet. Congratulations.&#x20;
