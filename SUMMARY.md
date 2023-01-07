@@ -14,10 +14,10 @@
 
 * [👋 Meet the Founders!](team/meet-the-founders.md)
 
-## Collaborating
+## RESOURCES
 
-* [🤝 How we work together](collaborating/how-we-work-together.md)
-* [📅 Meetings](collaborating/meetings.md)
+* [🤝 How we work together](resources/how-we-work-together.md)
+* [📅 Meetings](resources/meetings.md)
 
 ***
 
@@ -26,5 +26,14 @@
 * [📃 Disclaimer](disclaimer.md)
 * [🔭 Pitch Deck](pitch-deck.md)
 * [📖 Research References](research-references.md)
+* [🔐 Compliance & Security](compliance-and-security.md)
 * [❓ Privacy Policy](privacy-policy.md)
 * [💼 Terms & Conditions](terms-and-conditions.md)
+
+## SWAP Terms of Use
+
+* [✅ Acknowledge Terms](swap-terms-of-use/acknowledge-terms.md)
+
+***
+
+* [😻 Github ](github.md)

@@ -24,7 +24,7 @@ Soubiran concludes. "Numerical simulations are an excellent tool for learning."
 
 {% embed url="http://publications.europa.eu/resource/cellar/62c83a79-1259-11ea-8c1f-01aa75ed71a1.0001.03/DOC_1" %}
 
-<figure><img src="../../.gitbook/assets/63D82B05-1523-4EBE-B1ED-91DF3D676942.png" alt=""><figcaption><p>MODEL OF BETA PLANET </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/63D82B05-1523-4EBE-B1ED-91DF3D676942 (1).png" alt=""><figcaption><p>MODEL OF BETA PLANET </p></figcaption></figure>
 
 
 

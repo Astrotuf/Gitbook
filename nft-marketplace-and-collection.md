@@ -14,13 +14,13 @@ The proof-of-work approach demands the same amount of electricity as an ordinary
 
 In other words, one NFT transaction on Ethereum consumes the same amount of energy as about 331,056 Visa transactions or 24,895 hours of YouTube viewing.
 
-<figure><img src=".gitbook/assets/8D15C493-88D6-49CD-B23E-A07EA6DA304C (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/8D15C493-88D6-49CD-B23E-A07EA6DA304C (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### A smart contract-signed commitment
 
 Embedding staked KLIMA within the smart contract is a strong and poetic technique to improve the NFT collection atmosphere.
 
-<figure><img src=".gitbook/assets/87884E7D-C6B9-4CE7-8950-B32A1E43B738 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/87884E7D-C6B9-4CE7-8950-B32A1E43B738 (1).png" alt=""><figcaption></figcaption></figure>
 
 Digital Charity Art, based in New Zealand, collaborated with KlimaDAO on their most recent series of NFTs, which operate as a time capsule, storing and accumulating carbon offsets over time while creating financial flow for ocean conservation. When an NFT was minted, the buyer could burn it to obtain the underlying KLIMA as well as 70% of the staking rewards.&#x20;
 
