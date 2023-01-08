@@ -27,14 +27,14 @@
 * [🔭 Pitch Deck](pitch-deck.md)
 * [📖 Research References](research-references.md)
 * [🔐 Compliance & Security](compliance-and-security.md)
-* [❓ Privacy Policy](privacy-policy.md)
+* [❓ Privacy Policy](privacy-policy/README.md)
+  * [✅ Acknowledge Terms](privacy-policy/acknowledge-terms.md)
 * [💼 Terms & Conditions](terms-and-conditions.md)
 
-## OPEN SOURCE
+## MORE
 
-* [Brand Assets](open-source/brand-assets.md)
-* [✅ Acknowledge Terms](open-source/acknowledge-terms.md)
-* [😻 Github](open-source/github.md)
+* [🧩 Brand Assets](more/brand-assets.md)
+* [😻 Github](more/github.md)
 
 ***
 
