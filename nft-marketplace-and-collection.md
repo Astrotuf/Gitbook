@@ -6,7 +6,7 @@ coverY: 0
 
 # 🖼 NFT Marketplace & Collection
 
-The collection consists of 2,555 AI pieces, including 266 videos, of a unique collaboration between space research and artificial intelligence, bridging the gap between astronomy, natural and the supernatural sciences.&#x20;
+The Genesis collection will consist of 1,000 AI pieces, including 250 videos, of a unique collaboration between space research and artificial intelligence, bridging the gap between astronomy, natural and the supernatural sciences.
 
 #### Are NFTs bad for the environment?
 
@@ -20,13 +20,15 @@ In other words, one NFT transaction on Ethereum consumes the same amount of ener
 
 Embedding staked KLIMA within the smart contract is a strong and poetic technique to improve the NFT collection atmosphere.
 
-<figure><img src=".gitbook/assets/87884E7D-C6B9-4CE7-8950-B32A1E43B738 (1).png" alt=""><figcaption></figcaption></figure>
+Below you can see the carbon footprint of top NFT projects and why we aim towards an eco friendly NFT Collection and Marketplace.
+
+<figure><img src=".gitbook/assets/87884E7D-C6B9-4CE7-8950-B32A1E43B738 (1).png" alt=""><figcaption><p>Credit KlimDAO</p></figcaption></figure>
 
 Digital Charity Art, based in New Zealand, collaborated with KlimaDAO on their most recent series of NFTs, which operate as a time capsule, storing and accumulating carbon offsets over time while creating financial flow for ocean conservation. When an NFT was minted, the buyer could burn it to obtain the underlying KLIMA as well as 70% of the staking rewards.&#x20;
 
 The remaining 30% of incentives are claimed by DCA and directed to ocean conservation nonprofits over the course of the year (World for Wildlife NZ, Sea Shepherd NZ, See Turtles, Marine Megafauna Foundation, and Oceanic Society). Aid with the planting of trees in deforested areas. Restore healthy forest systems in order to protect animal habitat and endangered species.&#x20;
 
-Create jobs for the folks that live in these impoverished countries.&#x20;
+#### Create jobs for the folks that live in these impoverished countries.&#x20;
 
 #### Recent Use Cases
 
