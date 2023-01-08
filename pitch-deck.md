@@ -1,5 +1,6 @@
 ---
-cover: .gitbook/assets/pexels-polina-kovaleva-9095794.jpg
+cover: >-
+  https://images.unsplash.com/photo-1484589065579-248aad0d8b13?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxTcGFjZXxlbnwwfHx8fDE2NzMyMDIyODc&ixlib=rb-4.0.3&q=80
 coverY: 0
 ---
 
