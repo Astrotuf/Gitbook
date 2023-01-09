@@ -8,7 +8,7 @@ coverY: 0
 
 ## Mr. Dave&#x20;
 
-👋 CEO — 💌 mrdave@planetsomewhere.com — Dubai
+👋 CEO — 💌 mrdave@planetsomewhere.com
 
 ### Bio
 
