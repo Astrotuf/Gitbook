@@ -14,6 +14,7 @@
 
 * [🔭 Pitch Deck](team/pitch-deck.md)
 * [👋 Meet the Founder](team/meet-the-founders.md)
+* [🛣 Project Comparison](team/project-comparison.md)
 
 ## RESOURCES
 
@@ -36,7 +37,7 @@
 ## MORE
 
 * [🧩 Brand Assets](more/brand-assets.md)
-* [😻 Github Repositories](more/github-repositories.md)
+* [😻 Github Repositories](more/github.md)
 
 ***
 

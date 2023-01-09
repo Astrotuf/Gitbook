@@ -1,4 +1,4 @@
-# 😻 Github
+# 😻 Github Repositories
 
 ## Is the code open-source?
 
