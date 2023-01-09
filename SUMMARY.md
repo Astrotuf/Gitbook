@@ -14,7 +14,7 @@
 
 * [🔭 Pitch Deck](team/pitch-deck.md)
 * [👋 Meet the Founder](team/meet-the-founders.md)
-* [🛣 Project Comparison](team/project-comparison.md)
+* [🕹 Project Comparison](team/project-comparison.md)
 
 ## RESOURCES
 

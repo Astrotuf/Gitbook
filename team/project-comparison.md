@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/513C9E5C-45BC-4E14-BC1F-69B228E3BFAC.jpeg
 coverY: 89
 ---
 
-# 🛣 Project Comparison
+# 🕹 Project Comparison
 
 ## NFT MARKETPLACE COMPARISON CHART
 
