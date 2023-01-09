@@ -28,8 +28,6 @@ Digital Charity Art, based in New Zealand, collaborated with KlimaDAO on their m
 
 The remaining 30% of incentives are claimed by DCA and directed to ocean conservation nonprofits over the course of the year (World for Wildlife NZ, Sea Shepherd NZ, See Turtles, Marine Megafauna Foundation, and Oceanic Society). Aid with the planting of trees in deforested areas. Restore healthy forest systems in order to protect animal habitat and endangered species.&#x20;
 
-#### Create jobs for the folks that live in these impoverished countries.&#x20;
-
 #### Recent Use Cases
 
 <figure><img src=".gitbook/assets/7F79A655-DC02-4BE1-B862-FE5603EE8B2E.png" alt=""><figcaption><p>Credit KlimaDAO</p></figcaption></figure>
