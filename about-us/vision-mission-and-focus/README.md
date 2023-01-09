@@ -38,5 +38,5 @@ ReFi represents a paradigm shift in the way we collectively pool our capital to 
 
 This vision can be rapidly scaled thanks to open source software and modularity. In the future years, blockchain technology has the potential to enable new methods of managing resources and cooperating across networks.&#x20;
 
-<figure><img src="../../.gitbook/assets/FF82E635-5B7C-474A-AD12-A7976CF29229 (2).png" alt=""><figcaption><p>Image: REFIDAO</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/FF82E635-5B7C-474A-AD12-A7976CF29229 (1).png" alt=""><figcaption><p>Image: REFIDAO</p></figcaption></figure>
 
