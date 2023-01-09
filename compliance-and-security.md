@@ -1,3 +1,7 @@
+---
+description: Swap & Bridge Terms
+---
+
 # 🔐 Compliance & Security
 
 ## User Restrictions <a href="#user-restrictions" id="user-restrictions"></a>
@@ -15,7 +19,7 @@ PlanetSWH SWAP should not be used for any illegitimate or criminal activity nor 
 ### User Responsibility <a href="#user-responsibility" id="user-responsibility"></a>
 
 * Use of PlanetSWH is at the sole risk of the user.
-* The code repository, decentralized and autonomous protocol and environment, and associated decentralized networks are open-source and not controlled by any team.
+* The code repository, decentralized and autonomous protocol and environment, and associated decentralized networks are open-source and publicly available.
 * PlanetSWH contributors are not responsible for any losses or damages associated with inherent risks associated with cryptography, blockchain, or digital wallet usage.
 * The user agrees not to access PlanetSWH using any technology for the purposes of circumventing location-based restrictions.
 * Users are responsible for reporting and paying any applicable taxes associated with usage.
@@ -25,9 +29,7 @@ PlanetSWH SWAP should not be used for any illegitimate or criminal activity nor 
 
 The PlanetSWH application is currently in beta and usage is not programmatically restricted nor regulated for users in any locale. However, users must abide by local, state and federal laws, please check prior to usage. Post-beta, restrictions may be enabled for certain countries based on legal considerations.
 
-### Security <a href="#security" id="security"></a>
-
-#### Beta Release <a href="#beta-release" id="beta-release"></a>
+### Swap & Bridge Beta Release <a href="#security" id="security"></a>
 
 PlanetSWH Swap & Bridge is now released in a beta version. Not all contracts have been audited (Li.finance contracts have been audited) and users should use at their own discretion.&#x20;
 
@@ -38,3 +40,4 @@ PlanetSWH Swap & Bridge is now released in a beta version. Not all contracts hav
 #### Bug Bounty <a href="#bug-bounty" id="bug-bounty"></a>
 
 Bounties are one of the most important tools for testing and enhancing application and contract security. We are in the planning phases to implement a bug bounty to help protect users and their funds.
+

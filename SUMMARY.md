@@ -12,6 +12,7 @@
 
 ## Team
 
+* [🔭 Pitch Deck](team/pitch-deck.md)
 * [👋 Meet the Founder](team/meet-the-founders.md)
 
 ## RESOURCES
@@ -23,8 +24,8 @@
 
 * [🪙 Phelium Token (PHT)](phelium-token-pht.md)
 * [🖼 NFT Marketplace & Collection](nft-marketplace-and-collection.md)
-* [📃 Disclaimer](disclaimer.md)
-* [🔭 Pitch Deck](pitch-deck.md)
+* [📃 Public Disclaimer](disclaimer.md)
+* [👣 Carbon Footprint Polygon](carbon-footprint-polygon.md)
 * [📖 Research References](research-references.md)
 * [🔐 Compliance & Security](compliance-and-security.md)
 * [❓ Privacy Policy](privacy-policy/README.md)
