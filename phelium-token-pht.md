@@ -1,7 +1,7 @@
 ---
 description: A humble eco-energy friendly token built on the polygon blockchain.
 cover: .gitbook/assets/550291E2-1D14-40AE-9A60-0EC6D43483B1.jpeg
-coverY: 37
+coverY: 68.59272727272736
 ---
 
 # 🪙 Phelium Token (PHT)
