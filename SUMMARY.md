@@ -36,7 +36,7 @@
 ## MORE
 
 * [🧩 Brand Assets](more/brand-assets.md)
-* [😻 Github](more/github.md)
+* [😻 Github Repositories](more/github-repositories.md)
 
 ***
 
