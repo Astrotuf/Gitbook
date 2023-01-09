@@ -16,7 +16,7 @@ Using Blockchain scalability, deep learning and AI to a gain a better understand
 
 <figure><img src="../../.gitbook/assets/EC5DF69D-C4AC-4094-BDC4-83F964BF3A27.jpeg" alt=""><figcaption></figcaption></figure>
 
-PlanetSWH is a group of environmentalists, developers, and entrepreneurs that want to use their collective knowledge and expertise to effect change in the carbon markets today.&#x20;
+PlanetSWH is a group of environmentalists, developers, and entrepreneurs that want to use their collective knowledge and expertise to effect change in the african carbon markets today.&#x20;
 
 PlanetSWH is creating an open-source, transparent community that will harness the potential of already available open-source Web3 project to minimize carbon footprint and to bring immediate and demonstrable climate benefits.&#x20;
 
@@ -26,15 +26,17 @@ PlanetSWH aims to grow an expanding network that coordinates climate funding dis
 
 Climate change is both a financial and a coordination issue. Even when viable alternatives to generating energy and producing commodities exist, hundreds of billions of dollars are being poured into oil and gas each year. There is a widespread belief that action is essential, but we remain in a state of inaction.&#x20;
 
-To get a handle on what has to be done, we must first address financial and organizational obstacles.&#x20;
+#### To get a handle on what has to be done, we must first address financial and organizational obstacles.&#x20;
 
 The blockchain's strength is unequaled. To effect the necessary transformation, we demand fast and widespread mobilization and coordination of those who can and wish to help.&#x20;
 
 #### Change must be managed horizontally and collaboratively, rather than top-down by unaccountable "leaders." This is possible using Web3:
 
-<figure><img src="https://images.unsplash.com/photo-1533417457911-4ec911485388?crop=entropy&#x26;cs=tinysrgb&#x26;fm=jpg&#x26;ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8SXNsYW5kfGVufDB8fHx8MTY3MzA5MDYzNw&#x26;ixlib=rb-4.0.3&#x26;q=80" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/00366B9F-AA38-4D97-906D-3F6B94D5EB8D (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 ReFi represents a paradigm shift in the way we collectively pool our capital to achieve impact. Smart contracts offer unique reward schemes by disintermediating, facilitating, and automating. Web3 technologies allow for coordination, cooperation, and innovation while maintaining transparency and accountability.&#x20;
 
 This vision can be rapidly scaled thanks to open source software and modularity. In the future years, blockchain technology has the potential to enable new methods of managing resources and cooperating across networks.&#x20;
+
+<figure><img src="../../.gitbook/assets/FF82E635-5B7C-474A-AD12-A7976CF29229 (2).png" alt=""><figcaption><p>Image: REFIDAO</p></figcaption></figure>
 

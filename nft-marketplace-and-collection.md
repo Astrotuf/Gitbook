@@ -44,3 +44,95 @@ They promise to offset the remaining in the future to maintain carbon neutrality
 
 They published their love letter to the world, which resulted in the release of 350 tonnes of CO2 – more than five times their carbon impact.
 
+## PlanetSWH - Recognized NFTs
+
+You must hold at least one NFT from at least one of the following projects. This list will continue to grow over time to use our upcoming Beta NFT Carbon Offset Dapp.&#x20;
+
+Cryptopunks
+
+10KTF
+
+3Landers
+
+Adam Bomb Squad
+
+Adidas Originals
+
+Akutars
+
+Azuki
+
+Beanz
+
+Bored Ape Yacht Club
+
+Boss Beauties
+
+Capsule House
+
+CloneX
+
+Cool Cats
+
+Cool Pets
+
+Creature World
+
+Crypto Covens
+
+Cryptoadz
+
+Curio Cards
+
+Cyberbrokers
+
+Cyberkongz
+
+DeadFellaz
+
+Doodles
+
+Fluf World
+
+Forgotten Runes
+
+Gutter Cat Gang
+
+Invisible Friends
+
+Kaiju Kingz
+
+Karafuru
+
+Lazy Lions
+
+LOSTPOETS
+
+Mfers
+
+Moonbirds
+
+Mutant Ape Yacht Club
+
+NFT Worlds
+
+Otherdeed for Otherside
+
+Proof
+
+Psychedelics Anonymous
+
+Pudgy Penguins
+
+Smol Brains
+
+SupDucks
+
+Tubby Cats
+
+Veefriends
+
+World of Women
+
+World of Women Galaxy
+
