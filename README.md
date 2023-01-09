@@ -1,5 +1,8 @@
 ---
 description: There’s never been a stronger need to regenerate the Earth
+cover: >-
+  https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw4fHxHcmVlbiUyMHNjYXBlfGVufDB8fHx8MTY3MzI5OTAzNw&ixlib=rb-4.0.3&q=80
+coverY: 107
 ---
 
 # 👋 Welcome
