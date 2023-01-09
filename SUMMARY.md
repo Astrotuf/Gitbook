@@ -19,6 +19,7 @@
 
 * [🤝 How we work together](collaborating/how-we-work-together.md)
 * [📅 Meetings](collaborating/meetings.md)
+* [🌍 Carbon Positive Africa](resources/carbon-positive-africa.md)
 
 ***
 
@@ -27,9 +28,9 @@
 * [📃 Public Disclaimer](disclaimer.md)
 * [👣 Carbon Footprint Polygon](carbon-footprint-polygon.md)
 * [📖 Research References](research-references.md)
+* [✅ Acknowledge Terms](acknowledge-terms.md)
 * [🔐 Compliance & Security](compliance-and-security.md)
-* [❓ Privacy Policy](privacy-policy/README.md)
-  * [✅ Acknowledge Terms](privacy-policy/acknowledge-terms.md)
+* [❓ Privacy Policy](privacy-policy.md)
 * [💼 Terms & Conditions](terms-and-conditions.md)
 
 ## MORE

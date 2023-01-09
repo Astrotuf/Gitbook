@@ -32,7 +32,7 @@ The blockchain's strength is unequaled. To effect the necessary transformation, 
 
 #### Change must be managed horizontally and collaboratively, rather than top-down by unaccountable "leaders." This is possible using Web3:
 
-<figure><img src="../../.gitbook/assets/00366B9F-AA38-4D97-906D-3F6B94D5EB8D (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/00366B9F-AA38-4D97-906D-3F6B94D5EB8D.jpeg" alt=""><figcaption></figcaption></figure>
 
 ReFi represents a paradigm shift in the way we collectively pool our capital to achieve impact. Smart contracts offer unique reward schemes by disintermediating, facilitating, and automating. Web3 technologies allow for coordination, cooperation, and innovation while maintaining transparency and accountability.&#x20;
 
