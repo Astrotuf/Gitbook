@@ -19,7 +19,7 @@ For many, the'marketplace' is no longer a real location where two people exchang
 
 **Value has become completely divorced from the'market'. So much so that when an item or service destroys value, often immensely, the market imposes no consequence.**
 
-<figure><img src="https://images.unsplash.com/photo-1516937941344-00b4e0337589?crop=entropy&#x26;cs=tinysrgb&#x26;fm=jpg&#x26;ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw5fHxQb2xsdXRpb258ZW58MHx8fHwxNjczMDk1MjQz&#x26;ixlib=rb-4.0.3&#x26;q=80" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://images.unsplash.com/photo-1516937941344-00b4e0337589?crop=entropy&#x26;cs=tinysrgb&#x26;fm=jpg&#x26;ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw5fHxQb2xsdXRpb258ZW58MHx8fHwxNjczMDk1MjQz&#x26;ixlib=rb-4.0.3&#x26;q=80" alt=""><figcaption><p>Photo by <a href="https://unsplash.com/@worldsbetweenlines?utm_source=unsplash&#x26;utm_medium=referral&#x26;utm_content=creditCopyText">Patrick Hendry</a> on <a href="https://unsplash.com/s/photos/factory?utm_source=unsplash&#x26;utm_medium=referral&#x26;utm_content=creditCopyText">Unsplash</a></p></figcaption></figure>
 
 Carbon dioxide is a greenhouse gas that reduces our planet's ability to allow heat escape when it is present.
 
