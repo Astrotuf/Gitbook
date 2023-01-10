@@ -21,6 +21,7 @@
 * [🤝 How we work together](collaborating/how-we-work-together.md)
 * [📅 Meetings](collaborating/meetings.md)
 * [🌍 Carbon Positive Africa](resources/carbon-positive-africa.md)
+* [🌳 A,B,C’s of Carbon](resources/a-b-cs-of-carbon.md)
 
 ***
 
