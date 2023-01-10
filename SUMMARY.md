@@ -14,14 +14,16 @@
 
 * [🔭 Pitch Deck](team/pitch-deck.md)
 * [👋 Meet the Founder](team/meet-the-founders.md)
-* [🕹 Project Comparison](team/project-comparison/README.md)
-  * [🌳 A,B,C’s of Carbon Emissions](team/project-comparison/a-b-cs-of-carbon-emissions.md)
+* [🕹 Project Comparison](team/project-comparison.md)
 
 ## Learn&#x20;
 
+* [🌳 A,B,C’s of Carbon Emissions](learn/a-b-cs-of-carbon-emissions.md)
 * [🌍 Carbon Positive Africa](learn/carbon-positive-africa.md)
 * [⛓ Carbon Markets: On-Chain](learn/carbon-markets-on-chain.md)
 * [💨 How are Offsets Impactful?](learn/how-are-offsets-impactful.md)
+* [💸 Why are Carbon Offsets Valuable?](learn/why-are-carbon-offsets-valuable.md)
+* [🆚 Offsets VS Credits](learn/offsets-vs-credits.md)
 
 ## RESOURCES
 

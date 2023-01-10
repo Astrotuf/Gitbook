@@ -1,20 +1,18 @@
 ---
 description: >-
-  If carbon markets are to function, they must be run on a blockchain. Discover
-  why.
+  If carbon markets are to function in africa, they must be run on a blockchain.
+  Discover why!
+cover: ../.gitbook/assets/FF82E635-5B7C-474A-AD12-A7976CF29229.png
+coverY: 0
 ---
 
 # ⛓ Carbon Markets: On-Chain
 
-#### **The Problem, At-Large:** <a href="#the-problem-at-large" id="the-problem-at-large"></a>
+### **The Problem, At-Large:** <a href="#the-problem-at-large" id="the-problem-at-large"></a>
 
 ➡️The carbon markets are at a pivotal turning point in their history.
 
-#### **The Problem, At-Large:** <a href="#the-problem-at-large" id="the-problem-at-large"></a>
-
-➡️The carbon markets are at a pivotal turning point in their history.
-
-On the one hand, the carbon markets and the change in incentives created are the [best scalable tool](https://www.greenwashed.earth/how-are-offsets-impactful/) to fight the climate crisis. They could be the linchpin that leads us to a better, sustainable future.
+On the one hand, the carbon markets and the change in incentives created are the best scalable tool to fight the climate crisis. They could be the linchpin that leads us to a better, sustainable future.
 
 On the other hand, they are also a dysfunctional market. Market dynamics are outdated, opaque, and cumbersome. There are security concerns across the board concerning phenomena like double counting, and many projects fail to receive the actual value of their credits.
 

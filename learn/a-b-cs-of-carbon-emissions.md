@@ -1,8 +1,7 @@
 ---
 description: What are Scope 1, 2, & 3 Emissions?
-cover: >-
-  https://images.unsplash.com/photo-1561978879-84fa00184ef2?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw3fHxDbzJ8ZW58MHx8fHwxNjczMzA5NzE0&ixlib=rb-4.0.3&q=80
-coverY: 0
+cover: ../.gitbook/assets/C9E52981-93AA-434A-AE5B-670E4FCE9BF7.jpeg
+coverY: 150
 ---
 
 # 🌳 A,B,C’s of Carbon Emissions
@@ -55,10 +54,12 @@ Additionally, downstream Scope 3 emissions include emissions that come from what
 
 Due to the wide range of activities in Scope 3 emissions, most corporate emissions are classified as Scope 3.
 
-<figure><img src="../../.gitbook/assets/CCBA035D-C597-461A-8F73-942B54BEE1D8.jpeg" alt=""><figcaption><p>Image ESG Pro <a href="https://esgpro.co.uk/what-are-carbon-reporting-scopes/">https://esgpro.co.uk/</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CCBA035D-C597-461A-8F73-942B54BEE1D8.jpeg" alt=""><figcaption><p>Image ESG Pro <a href="https://esgpro.co.uk/what-are-carbon-reporting-scopes/">https://esgpro.co.uk/</a></p></figcaption></figure>
 
 ### Why Is The Scope System Important? <a href="#why-is-the-scope-system-important" id="why-is-the-scope-system-important"></a>
 
 Carbon offsetting is one of the best ways to fight the climate crisis, but the theory behind it relies on the assumption that companies actually know how many emissions they create.
 
 The scope system, especially Scope 3, allows companies to know that number by accounting for every possible way a company’s operations affect the environment.Thus, the scope system allows carbon offsetting to work as a climate solution, which is integral to the larger fight against the climate crisis.
+
+{% embed url="https://www.greenwashed.earth/what-are-scope-1-2-3-emissions/" %}
