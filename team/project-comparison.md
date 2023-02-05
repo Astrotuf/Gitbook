@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/513C9E5C-45BC-4E14-BC1F-69B228E3BFAC.jpeg
+cover: ../../.gitbook/assets/513C9E5C-45BC-4E14-BC1F-69B228E3BFAC.jpeg
 coverY: 89
 ---
 
@@ -17,7 +17,7 @@ coverY: 89
 | Custom VR Space  | ✅         | 🚫      | 🚫         |
 | Social Features  | ✅         | 🚫      | 🚫         |
 | Rebates Program  | ✅         | 🚫      | 🚫         |
-| Commissions      | 2.7%      | 2.5%    | 5%         |
+| Commissions      | 3%        | 2.5%    | 5%         |
 
 ## METAVERSE COMPARISON CHART
 

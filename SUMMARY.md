@@ -38,6 +38,7 @@
 * [👣 Carbon Footprint Polygon](carbon-footprint-polygon.md)
 * [📖 Research References](research-references.md)
 * [✅ Acknowledge Terms](acknowledge-terms.md)
+* [Page 1](page-1.md)
 * [🔐 Compliance & Security](compliance-and-security.md)
 * [❓ Privacy Policy](privacy-policy.md)
 * [💼 Terms & Conditions](terms-and-conditions.md)

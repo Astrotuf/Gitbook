@@ -8,6 +8,8 @@ coverY: 0
 
 {% @figma/embed fileId="WgxiX7TzwgFEZvEEcZ1xzd" url="https://www.figma.com/file/WgxiX7TzwgFEZvEEcZ1xzd/Pitch-deck-of-PlanetSWH-Community" %}
 
+Non of our founders where invloved in this Grant but we hope to build with the research.&#x20;
+
 {% embed url="http://publications.europa.eu/resource/cellar/62c83a79-1259-11ea-8c1f-01aa75ed71a1.0001.03/DOC_1" %}
 Source: WHIPLASH Grant agreement ID - 679030
 {% endembed %}
